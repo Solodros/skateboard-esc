@@ -10,4 +10,5 @@ Support FOC, more suitable for low speed high torque motor drive;
 Do not use for commercialization, only for personal DIY use
 ![Image Top](https://github.com/Z-WX/VESC-4-derivative-/blob/master/Snipaste_2018-06-08_13-38-09.bmp)
 ![Image text](https://github.com/Z-WX/VESC-4-derivative-/blob/master/Snipaste_2018-06-08_13-38-23.bmp)
+Thanks LIBRE_PILOT
 

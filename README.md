@@ -4,6 +4,7 @@ Supports all basic functions of the sensorless motor of VESC (inability to use i
 You can use DRV8301 or DRV8302 driver;
 low cost
 The current depends on the MOS and heat dissipation, the maximum theoretical current 160A, the maximum support 12S battery;
-Supports +-0.5% speed closed loop, the default PID can kill all constant speed ESC on the market, comes with 1.5A BEC;
+Supports +-0.5% speed closed loop, comes with 1.5A BEC;
 Supports regenerative braking, full synchronous rectification, quick braking, responsive response, start-up performance depending on start-up parameter settings;
 Support FOC, more suitable for low speed high torque motor drive;
+Do not use for commercialization, only for personal DIY use
